@@ -46,6 +46,7 @@ a.dismiss{
 a.dismiss:hover{
     background:linear-gradient(145deg,rgb(218, 125, 218),orangered);
  }
+
  @media (min-width: 430px){
     .row{
         display: block;
